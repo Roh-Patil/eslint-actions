@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "set-actions": "workspace:*",
-    "eslint": "^8.42.0",
     "stylelint": "^15.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-plugin-react": "^7.32.2"
   }
 }

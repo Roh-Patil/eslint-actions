@@ -1,3 +1,5 @@
+import React from "react";
+// import React from "react";
 export const meta = () => {
   return [
     { title: "New Remix App" },
@@ -16,7 +18,9 @@ export default function Index() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorial
+            15m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj
+
+          
           </a>
         </li>
         <li>
@@ -26,6 +30,7 @@ export default function Index() {
             rel="noreferrer"
           >
             Deep Dive Jokes App Tutorial
+            {console.log('jjjjjjjj')};
           </a>
         </li>
         <li>
