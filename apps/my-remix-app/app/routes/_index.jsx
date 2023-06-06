@@ -17,6 +17,7 @@ export default function Index() {
             rel="noreferrer"
           >
             15m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj5m Quickstart Blog Tutorial jjdjdjjdjjjjjjj
+
           
           </a>
         </li>
@@ -27,6 +28,7 @@ export default function Index() {
             rel="noreferrer"
           >
             Deep Dive Jokes App Tutorial
+            {console.log('jjjjjjjj')};
           </a>
         </li>
         <li>
