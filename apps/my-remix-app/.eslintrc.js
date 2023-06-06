@@ -23,5 +23,10 @@ module.exports = {
       ],
       "no-console": "warn",
       "no-duplicate-imports": "warn",
+      "no-unused-vars": "warn",
+      "object-curly-spacing": [
+        "warn",
+        "always"
+    ],
   }
 }
